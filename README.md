@@ -127,7 +127,7 @@ const { $ } = Jupe([examplePlugin]);
 
 ## ESM
 
-Jupe is a pure ESM package. It can not be `required()`'d from CommonJS. If you need help migrating to ESM or implementing Jupe because of ESM, refer to [this post](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c).
+Jupe is a pure ESM package. It can not be `require()`'d from CommonJS. If you need help migrating to ESM or implementing Jupe because of ESM, refer to [this post](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c).
 
 <br>
 
