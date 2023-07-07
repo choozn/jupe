@@ -6,6 +6,8 @@
   <br>
   <img width="180" src="res/icon.png" alt="Vite logo">
 </div>
+
+<br>
 <hr>
 
 ❤️ A lightweight framework to wrap functions with code
@@ -142,6 +144,8 @@ When using Jupe, you are basically dressing functions: You are throwing over dre
 ➔ <a href="https://www.flaticon.com/free-icons/skirt" title="skirt icons">Skirt icon created by Freepik - Flaticon</a>
 
 ---
+
+<br>
 
 🚀 https://github.com/choozn
 
